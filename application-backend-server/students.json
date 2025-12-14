@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Chau Thi Tram",
+        "major": "Computer Science",
+        "gpa": 8.06
+    },
+    {
+        "id": 2,
+        "name": "Dinh Thi Nguyet",
+        "major": "Computer Science",
+        "gpa": 8.1
+    },
+    {
+        "id": 3,
+        "name": "Nguyen Thi An",
+        "major": "Software engineer",
+        "gpa": 7.06
+    },
+    {
+        "id": 4,
+        "name": "Nguyen Thanh Ha",
+        "major": "Software engineer",
+        "gpa": 7.5
+    },
+    {
+        "id": 5,
+        "name": "Tran Thi Thu Thuong",
+        "major": "Computer Science",
+        "gpa": 8.5
+    }
+
+]
